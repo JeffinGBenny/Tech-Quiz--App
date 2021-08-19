@@ -1,13 +1,13 @@
 <img src="banner/banner.gif" width="100%" height="">
 
-#Tech-Quiz-App
+##Tech-Quiz-App
 
-This is a quiz app with a timer. It asks numerous tech related questions and the user needsto select one of the four options for each question within the time limitt provided. In the end it displays the final score of the user.
+This is a quiz app with a timer. It asks numerous tech related questions and the user needs to select one of the four options for each question within the time limit provided. In the end it displays the final score of the user.
 
 
 ## Demo + Video
 
- link to QuizApp walkthrough video
+Link to QuizApp walkthrough video
 [https://www.loom.com/share/4ecbc8a133ce41448317ba8ea2de03e6]
 
   
@@ -34,7 +34,7 @@ This is a quiz app with a timer. It asks numerous tech related questions and the
   
 ## Features
 
-- quiz app with timer
+- Quiz app with timer
 - Responsive
 - interactive
 
@@ -51,9 +51,9 @@ Go to the project directory
 bash
   cd Tech-Quiz--App
 
-open index.html with any browser
+Open index.html with any browser
 
-the quiz app will be available in the browser
+The quiz app will be available in the browser
 
 
   

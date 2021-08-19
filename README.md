@@ -59,5 +59,5 @@ the quiz app will be available in the browser
   
 ## Screenshots
 
-<img src="banner/banner.gif" width="100%" height="">
+<img src="quiz_app_screenshot" width="100%" height="">
   

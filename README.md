@@ -1,6 +1,6 @@
 <img src="banner/banner.gif" width="100%" height="">
 
-##Tech-Quiz-App
+## Tech-Quiz-App
 
 This is a quiz app with a timer. It asks numerous tech related questions and the user needs to select one of the four options for each question within the time limit provided. In the end it displays the final score of the user.
 
@@ -57,7 +57,7 @@ The quiz app will be available in the browser
 
 
   
-## Screenshots
+## Screenshot
 
 <img src="quiz_app_screenshot.jpg" width="100%" height="">
   
